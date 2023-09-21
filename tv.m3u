@@ -7,11 +7,11 @@ http://162.251.62.114:80/333079
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E 4K FHDR" tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
 http://162.251.62.114:80/118933
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E FHD
-http://162.251.62.114:80/kathefalsen476/5dyrd0jtbh/4100
+http://162.251.62.114:80/4100
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD [H265]" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E FHD [H265]
-http://162.251.62.114:80/kathefalsen476/5dyrd0jtbh/71018
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E HD
-http://162.251.62.114:80/kathefalsen476/5dyrd0jtbh/350107
+http://162.251.62.114:80/71018
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E Gratis
+http://162.251.62.114:80/350107
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E SD
 http://162.251.62.114:80/kathefalsen476/5dyrd0jtbh/4103
 #EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="Canais | 24 Horas",ALADIN 24HS
